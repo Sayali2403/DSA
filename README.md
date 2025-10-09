@@ -1,4 +1,4 @@
 # DSA
 Welcome to my DSA Repository! 🚀
 
-This repository is dedicated to solving problems based on Data Structures and Algorithms. It is a growing collection where I will be adding solutions to various problems, categorized by DSA concepts such as arrays, strings, linked lists, trees, graphs, dynamic programming, sorting & searching, and more.
+This repository focuses on solving Data Structures and Algorithms (DSA) problems. It’s a continuously growing collection where I’ll be adding solutions organized by key DSA concepts like arrays, strings, linked lists, trees, graphs, dynamic programming, sorting, searching, and more.

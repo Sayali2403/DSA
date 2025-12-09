@@ -1,0 +1,3 @@
+- An array is like a row of boxes kept side by side.
+- Each box can hold a value (like a number, word, or object).
+- All the boxes are connected, so you can easily find them by their position (called an index).

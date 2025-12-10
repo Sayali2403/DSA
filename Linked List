@@ -1,0 +1,3 @@
+-A linked list is a data structure made up of nodes, where each node contains data and a pointer to the next node. 
+-Unlike arrays, linked lists use non-contiguous memory, making insertion and deletion more efficient but access slower.
+-Common types include singly, doubly, and circular linked lists, each suited for different applications

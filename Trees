@@ -1,0 +1,3 @@
+A tree is a hierarchical data structure made up of nodes, with one node designated as the root and others connected as children.
+Each node can have multiple child nodes, but only one parent, forming a branching structure. 
+Trees are widely used in computer science for tasks like searching, sorting, and representing hierarchical relationships such as file systems or organizational charts

@@ -1,0 +1,3 @@
+A graph is a non-linear data structure consisting of nodes (vertices) and connections (edges) that represent relationships. 
+Graphs can be directed or undirected, and may be weighted or unweighted depending on whether edges carry direction or cost.
+They are widely used in networking, social media, pathfinding, and recommendation systems to model complex connections.

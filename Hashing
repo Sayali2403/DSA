@@ -1,0 +1,3 @@
+Hashing is a technique that maps data of arbitrary size to fixed-size values called hash codes using hash functions. 
+It is widely used in hash tables for fast data retrieval, where keys are converted into indices. 
+Hashing helps in applications like databases, cryptography, and caching by ensuring efficient lookups and secure data handling

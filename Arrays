@@ -1,3 +1,5 @@
 - An array is like a row of boxes kept side by side.
 - Each box can hold a value (like a number, word, or object).
 - All the boxes are connected, so you can easily find them by their position (called an index).
+-To define an array, you declare its data type, name, and size (e.g., int numbers;), storing multiple elements of the same type in contiguous memory,accessed by an index starting at 0 (e.g., numbers). 
+-You can then assign values using curly braces for initialization (e.g., int numbers = {10, 20, 30};) or individually by index (e.g., numbers = 10;).

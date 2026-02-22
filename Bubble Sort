@@ -1,0 +1,3 @@
+-Bubble Sort is a simple sorting algorithm that repeatedly compares adjacent elements and swaps them if they are in the wrong order. 
+-This process continues until the list is fully sorted, with larger elements gradually "bubbling" to the end of the array after each pass. 
+-Although easy to understand and implement, Bubble Sort is inefficient for large datasets because it has a worst-case time complexity of O(n²).

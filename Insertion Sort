@@ -1,0 +1,3 @@
+Insertion Sort is a simple algorithm that builds the sorted array one element at a time by repeatedly inserting the current element into its correct position among the already sorted elements. 
+It works well for small datasets and nearly sorted arrays, with a time complexity of O(n²) in the worst case but O(n) in the best case when the array is already sorted. 
+This method is intuitive because it mimics how people often sort playing cards in their hands.
